@@ -1,4 +1,4 @@
-# Curiosity-Driven Exploration - pytorch implementation (Simple version) w/ CartPole
+# Curiosity-Driven Exploration - pytorch implementation w/ CartPole (Simple version)
 ### Paper: [Curiosity-driven Exploration by Self-supervised Prediction, D. Pathak, 2017](https://arxiv.org/abs/1705.05363)
 
 ## Dependencies
