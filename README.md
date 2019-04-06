@@ -8,7 +8,7 @@
 
 ## Performance (sparse reward mode. only final penelty)
 - Red: A2C with ICM, Blue: A2C w/o ICM
-- I think A2C w/ ICM seems to converge slightly faster than the other on average in my experiments.
+- A2C w/ ICM seems to converge slightly faster than the other on average in my experiments.
 
 ![](assets/curiosity-score.png)
 
