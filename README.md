@@ -6,6 +6,13 @@
 - pytorch 1.0.0
 - gym 0.12.1
 
+## Usage
+- Easy easy. Install the dependencies and run the below command.
+
+```
+	python main.py
+```
+
 ## Performance (sparse reward mode. only final penelty)
 - Red: A2C with ICM, Blue: A2C w/o ICM
 - A2C w/ ICM seems to converge slightly faster than the other on average in my experiments.
