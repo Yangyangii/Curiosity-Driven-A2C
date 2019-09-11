@@ -24,7 +24,7 @@
 ## Notes
 - I trained the model in CartPole environment. However, it is not the best choice for experiment of curiosity
 - I modified overall model architecture.
-	- A2C instead of A3C.
+	- A2C instead of A3C (Just Actor Critic using Advantage, not parallel technique).
 	- Very simple inverse model and forward model. Because the observation of CartPole is already some feature representations, not image.
 	- Larger scaling factor of intrinsic rewards.
 
